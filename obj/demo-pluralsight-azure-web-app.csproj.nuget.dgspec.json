@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Sources\\PluralsightCours\\demo-pluralsight-azure-web-app\\demo-pluralsight-azure-web-app.csproj": {}
+    "C:\\Sources\\PluralsightCours\\demo-pluralsight-azure-web-app\\demo-pluralsight-azure-web-app.csproj": {}
   },
   "projects": {
-    "c:\\Sources\\PluralsightCours\\demo-pluralsight-azure-web-app\\demo-pluralsight-azure-web-app.csproj": {
+    "C:\\Sources\\PluralsightCours\\demo-pluralsight-azure-web-app\\demo-pluralsight-azure-web-app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Sources\\PluralsightCours\\demo-pluralsight-azure-web-app\\demo-pluralsight-azure-web-app.csproj",
+        "projectUniqueName": "C:\\Sources\\PluralsightCours\\demo-pluralsight-azure-web-app\\demo-pluralsight-azure-web-app.csproj",
         "projectName": "demo-pluralsight-azure-web-app",
-        "projectPath": "c:\\Sources\\PluralsightCours\\demo-pluralsight-azure-web-app\\demo-pluralsight-azure-web-app.csproj",
+        "projectPath": "C:\\Sources\\PluralsightCours\\demo-pluralsight-azure-web-app\\demo-pluralsight-azure-web-app.csproj",
         "packagesPath": "C:\\Users\\ezech\\.nuget\\packages\\",
-        "outputPath": "c:\\Sources\\PluralsightCours\\demo-pluralsight-azure-web-app\\obj\\",
+        "outputPath": "C:\\Sources\\PluralsightCours\\demo-pluralsight-azure-web-app\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ezech\\AppData\\Roaming\\NuGet\\NuGet.Config",
